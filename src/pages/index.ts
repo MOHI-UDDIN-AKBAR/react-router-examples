@@ -1,6 +1,6 @@
 import Home from './Home';
-import BookList from './BookList';
-import Contact from './Contact';
-import Service from './Service';
+import Login from './Login';
+import Account from './Account';
+import NotFound from './NotFound';
 
-export { Home, BookList, Contact, Service };
+export { Home, Login, Account, NotFound };
